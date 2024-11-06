@@ -1,6 +1,4 @@
 # Code exercise:
-<h1 style="color:Tomato;">高中生程式解題系統</h1>
+<h1 style="color:Tomato;">verilog-隨手筆記</h1>
 
-Reference:
-https://zerojudge.tw/
 
