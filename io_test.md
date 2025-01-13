@@ -1,6 +1,6 @@
+***[sample]:***
 
-
-'''verilog
+```verilog
 module io_test
 (
 inout SDA
@@ -28,5 +28,5 @@ assign SDA = (ctrl)? data_out: 1'bz;
 endmodule
 
 
-'''
+```
 
