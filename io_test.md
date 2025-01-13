@@ -1,6 +1,6 @@
 ***[sample]:***
 
-![image](./tri_state_buffer.png)
+![image](./picture/tri_state_buffer.png)
 
 ```verilog
 module io_test
