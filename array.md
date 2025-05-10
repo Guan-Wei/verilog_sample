@@ -1,7 +1,7 @@
 **Array sample**
 
-宣告: 先暫存器大小,再個數(index).
-給值: 先個數(index),再暫存器大小.
+* 宣告: 先暫存器大小,再個數(index).
+* 給值: 先個數(index),再暫存器大小.
 
 ```verilog
 // register width: 16 bits
