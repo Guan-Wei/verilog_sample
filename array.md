@@ -1,4 +1,4 @@
-# Array
+**Array sample**
 
 ```verilog
 // register width: 16 bits
